@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, My name is Tom</h1>
+<h1 align="left">Hello There!</h1>
+My name is Kittipat, but you can also call me Tom.
 <p align="left">
 </p>
 
